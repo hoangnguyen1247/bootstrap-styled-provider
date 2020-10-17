@@ -1,5 +1,5 @@
-declare module '@bootstrap-styled/provider' {
-  import { Theme, UserTheme } from 'bootstrap-styled';
+declare module 'bt-styled-provider' {
+  import { Theme, UserTheme } from 'bt-styled';
   import { Component, ReactNode } from 'react';
 
   export type BootstrapProviderProps = {
